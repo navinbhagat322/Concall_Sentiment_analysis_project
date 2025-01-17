@@ -1,11 +1,3 @@
-# **Project Report**  
-## **AI for Fintech Course Project**  
-**Under the guidance of:** Saurabh Kumar (Assistant Faculty, IIT Jodhpur)  
-**Duration:** October 2024 – November 2024  
-**Institution:** IIT Jodhpur  
-
----
-
 ## **Project Overview**  
 The project focused on leveraging Artificial Intelligence (AI) techniques to analyze financial conference call transcripts, aiming to extract actionable insights and understand sentiment-driven market trends. This endeavor integrated Natural Language Processing (NLP) tools and data visualization methods to enhance financial decision-making processes.
 
